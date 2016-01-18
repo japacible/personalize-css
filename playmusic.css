@@ -1,0 +1,31 @@
+/*****************************************************************************/
+/*  Custom styles for the Google Play Music desktop web interface.           */
+/*  Jennifer Apacible                                                        */
+/*****************************************************************************/
+
+#auto-playlists,
+.cards > .column,
+.header.has-subtitle,
+#material-hero-image,
+.nav-section-divider,
+.nav-section-header,
+.recommended-header {
+  display: none;
+}
+
+.cluster,
+paper-header-panel #music-content.material .g-content {
+  margin: 0;
+}
+
+.material .song-table {
+  padding: 0;
+}
+
+.material-detail-view .has-hero-image {
+  margin-top: 30px;
+}
+
+#music-content {
+  top: 0;
+}

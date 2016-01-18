@@ -1,0 +1,17 @@
+/*****************************************************************************/
+/*  Custom styles for Facebook desktop web interface (www).                  */  
+/*  Jennifer Apacible                                                        */
+/*****************************************************************************/
+
+#appsNav,
+#developerNav,
+#eventsNav,
+.fbNubButton,
+#groupsNav,
+#GroupsRHCSuggestionSection,
+#interestsNav,
+#listsNav,
+#pagelet_ego_pane,
+#pagesNav {
+  display: none;
+}
