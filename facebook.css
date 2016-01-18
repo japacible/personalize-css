@@ -11,7 +11,9 @@
 #GroupsRHCSuggestionSection,
 #interestsNav,
 #listsNav,
+#pagelet_dock,
 #pagelet_ego_pane,
+#pagelet_sidebar,
 #pagesNav {
   display: none;
 }
