@@ -9,8 +9,7 @@
       "http://*.facebook.com/*",
       "https://*.facebook.com/*",
       "https://www.messenger.com/*",
-      "https://play.google.com/music/*",
-      "https://plus.google.com/*"],
+      "https://play.google.com/music/*"],
     "js": [
       "main.js"
     ]
@@ -18,7 +17,6 @@
   "web_accessible_resources": [
     "facebook.css",
     "messenger.css",
-    "playmusic.css",
-    "plus.css"
+    "playmusic.css"
   ]
 }

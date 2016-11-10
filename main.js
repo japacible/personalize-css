@@ -2,7 +2,6 @@ var siteToCSS = [
   {site:"facebook.com", sheet:"facebook.css"},
   {site:"messenger.com", sheet:"messenger.css"},
   {site:"play.google.com/music", sheet:"playmusic.css"},
-  {site:"plus.google.com", sheet:"plus.css"},
 ];
 
 var modifyCSS = function() {
