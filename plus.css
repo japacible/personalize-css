@@ -1,16 +1,8 @@
 /*****************************************************************************/
-/*  Custom styles for the Messenger desktop web interface.                   */
+/*  Custom styles for the Google+ desktop web interface.                     */
 /*  Jennifer Apacible                                                        */
 /*****************************************************************************/
 
-._1qt4._5l-m /* preview */,
-._2j6._5l-3 /* thread settings */,
-._5iwm._150g._58ah /* search */,
-._4_j5 /* right panel */ {
+.yKK2Q {
   display: none;
-}
-
-._1enh {
-  max-width: 74px;
-  min-width: 74px;
 }

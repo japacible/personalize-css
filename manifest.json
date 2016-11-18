@@ -1,7 +1,7 @@
 {
   "name": "Jenpa's Personalized CSS",
   "author": "Jennifer Apacible",
-  "version": "1.8",
+  "version": "1.9",
   "manifest_version": 2,
   "description": "Personalize the CSS of websites to Jenpa's preferences.",
   "content_scripts": [{
@@ -9,7 +9,9 @@
       "http://*.facebook.com/*",
       "https://*.facebook.com/*",
       "https://www.messenger.com/*",
-      "https://play.google.com/music/*"],
+      "https://play.google.com/music/*",
+      "https://plus.google.com/*"
+    ],
     "js": [
       "main.js"
     ]
@@ -17,6 +19,7 @@
   "web_accessible_resources": [
     "facebook.css",
     "messenger.css",
-    "playmusic.css"
+    "playmusic.css",
+    "plus.css"
   ]
 }
